@@ -23,17 +23,25 @@ ________________________________________________________________________________
 The input data files are : 
  
 dept.txt         (Containing department code and No. of students per department)
+
 halls.txt	     (Containing Hall No. and Capacity per hall)
+
 holidays.txt     (Containing No. of holidays and holidates in dd-mm-yyyy format)
+
 invigilators.txt (Containing Name of Invigilators and Availability status as 1 or 0)
+
 course1.txt      (Containing Courses of every department for Semester 1)
+
 course2.txt      (Containing Courses of every department for Semester 2)
+
 course3.txt      (Containing Courses of every department for Semester 3)
+
 course4.txt      (Containing Courses of every department for Semester 4)
 
 The output is created in two files:
 
 examtt.txt       (Containing Exam Time Table for each Semester and all departments with the dates)
+
 hallstt.txt      (Containing Hall Allocated for the Students with Invigilator Alloted)
 
 ____________________________________________________________________________________________________________________________________________
