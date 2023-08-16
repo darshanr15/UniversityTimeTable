@@ -72,21 +72,30 @@ EXAM TIMETABLE CREATED.
 file examtt.txt
 
 
-												EXAM TIME TABLE
+										EXAM TIME TABLE
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 SEMESTER - 1
+
 FORENOON
 
 DEPT.        21-3-2022                  26-3-2022                  31-3-2022                  4-4-2022                  8-4-2022                  14-4-2022           
-CSE    Algebra and Calculus       Communicative English      Programming in Python      Engineering Chemistry      Engineering Physics        Engineering Graphics     
-IT     Algebra and Calculus       Communicative English      Programming in Python      Engineering Chemistry      Engineering Physics        Engineering Graphics     
-ECE    Algebra and Calculus       Communicative English      Programming in Python      Engineering Chemistry      Engineering Physics        Engineering Graphics     
-EEE    Algebra and Calculus       Communicative English      Programming in Python      Engineering Chemistry      Engineering Physics        Engineering Graphics     
-CIVIL  Algebra and Calculus       Communicative English      Programming in Python      Engineering Chemistry      Engineering Physics        Engineering Graphics     
-MECH   Algebra and Calculus       Communicative English      Programming in Python      Engineering Chemistry      Engineering Physics        Engineering Graphics     
+CSE    Algebra and Calculus       Communicative English      Programming in Python      Engineering Chemistry      Engineering Physics        Engineering Graphics
+
+IT     Algebra and Calculus       Communicative English      Programming in Python      Engineering Chemistry      Engineering Physics        Engineering Graphics
+
+ECE    Algebra and Calculus       Communicative English      Programming in Python      Engineering Chemistry      Engineering Physics        Engineering Graphics
+
+EEE    Algebra and Calculus       Communicative English      Programming in Python      Engineering Chemistry      Engineering Physics        Engineering Graphics
+
+CIVIL  Algebra and Calculus       Communicative English      Programming in Python      Engineering Chemistry      Engineering Physics        Engineering Graphics
+
+MECH   Algebra and Calculus       Communicative English      Programming in Python      Engineering Chemistry      Engineering Physics        Engineering Graphics
+
 
 SEMESTER - 2
+
 AFTERNOON
 
 DEPT.        21-3-2022                  26-3-2022                  31-3-2022                  4-4-2022                  8-4-2022                  14-4-2022           
@@ -128,79 +137,147 @@ file hallstt.txt
 
 
 SEMESTER - 1
+
 FORENOON ( 9.00 AM - 12.15 PM )
-DATES:  21-3-2022  26-3-2022  31-3-2022  4-4-2022  8-4-2022  14-4-2022 
+
+DATES:  21-3-2022  26-3-2022  31-3-2022  4-4-2022  8-4-2022  14-4-2022
+
 -----------------------------------------------------
+
 HALL NO.      REGISTER NUMBER           INVIGILATOR
+
   101	     3122 21 1000 To 1029	         Edna
+  
   102	     3122 21 1030 To 1059	         Abbot
+  
   103	     3122 21 2000 To 2029	         Bryant
+  
   104	     3122 21 2030 To 2059	         Connor
+  
   105	     3122 21 3000 To 3029	         Nakul
+  
   106	     3122 21 3030 To 3059	         Orman
+  
   201	     3122 21 4000 To 4029	         Sabhya
+  
   202	     3122 21 4030 To 4059	         Taraksh
+  
   203	     3122 21 5000 To 5029	         Xander
+  
   204	     3122 21 5030 To 5059	         Milo
+  
   205	     3122 21 6000 To 6029	         Aaron
+  
   206	     3122 21 6030 To 6059	         Jade
+  
 -----------------------------------------------------
 
 SEMESTER - 2
+
 AFTERNOON ( 1.00 PM - 4.15 PM )
+
 DATES:  21-3-2022  26-3-2022  31-3-2022  4-4-2022  8-4-2022  14-4-2022 
+
 -----------------------------------------------------
+
 HALL NO.      REGISTER NUMBER           INVIGILATOR
+
   101	     3122 20 1000 To 1029	         Leah
+  
   102	     3122 20 1030 To 1059	         Dean
+  
   103	     3122 20 2000 To 2029	         Isaac
+  
   104	     3122 20 2030 To 2059	         Xavier
+  
   105	     3122 20 3000 To 3029	         Austin
+  
   106	     3122 20 3030 To 3059	         Silas
+  
   201	     3122 20 4000 To 4029	         Oscar
+  
   202	     3122 20 4030 To 4059	         Miles
+  
   203	     3122 20 5000 To 5029	         Archer
+  
   204	     3122 20 5030 To 5059	         Beckett
+  
   205	     3122 20 6000 To 6029	         Ryder
+  
   206	     3122 20 6030 To 6059	         Zane
+  
 -----------------------------------------------------
 
 SEMESTER - 3
+
 FORENOON ( 9.00 AM - 12.15 PM )
+
 DATES:  22-3-2022  28-3-2022  2-4-2022  6-4-2022  11-4-2022  18-4-2022 
+
 -----------------------------------------------------
+
 HALL NO.      REGISTER NUMBER           INVIGILATOR
+
   101	     3122 19 1000 To 1029	         Edna
+  
   102	     3122 19 1030 To 1059	         Abbot
+  
   103	     3122 19 2000 To 2029	         Bryant
+  
   104	     3122 19 2030 To 2059	         Connor
+  
   105	     3122 19 3000 To 3029	         Nakul
+  
   106	     3122 19 3030 To 3059	         Orman
+  
   201	     3122 19 4000 To 4029	         Sabhya
+  
   202	     3122 19 4030 To 4059	         Taraksh
+  
   203	     3122 19 5000 To 5029	         Xander
+  
   204	     3122 19 5030 To 5059	         Tavish
+  
   205	     3122 19 6000 To 6029	         Milo
+  
   206	     3122 19 6030 To 6059	         Aaron
+  
 -----------------------------------------------------
 
 SEMESTER - 4
+
 AFTERNOON ( 1.00 PM - 4.15 PM )
+
 DATES:  22-3-2022  28-3-2022  2-4-2022  6-4-2022  11-4-2022  18-4-2022 
+
 -----------------------------------------------------
+
 HALL NO.      REGISTER NUMBER           INVIGILATOR
+
   101	     3122 18 1000 To 1029	         Jade
+  
   102	     3122 18 1030 To 1059	         Ivy
+  
   103	     3122 18 2000 To 2029	         Jasmi
+  
   104	     3122 18 2030 To 2059	         Leah
+  
   105	     3122 18 3000 To 3029	         Megan
+  
   106	     3122 18 3030 To 3059	         Dean
+  
   201	     3122 18 4000 To 4029	         Isaac
+  
   202	     3122 18 4030 To 4059	         Joel
+  
   203	     3122 18 5000 To 5029	         Miller
+  
   204	     3122 18 5030 To 5059	         Santiago
+  
   205	     3122 18 6000 To 6029	         Xavier
+  
   206	     3122 18 6030 To 6059	         Austin
+  
 -----------------------------------------------------
 
 
@@ -209,5 +286,5 @@ The above two files are created in the same directory of the exe file.
 ____________________________________________________________________________________________________________________________________________
 
 
-<<There is nothing impossible to they who will try>>
+**There is nothing impossible to they who will try**
 WISHES!!
