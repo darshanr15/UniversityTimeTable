@@ -1,0 +1,36 @@
+Probility               
+Computer Architecture  
+Operating Systems       
+Design Algorithms      
+Database Management     
+Software Engineering    
+Probility               
+Software Engineering   
+Information Theory      
+Microprocessors        
+Advanced Data Structure 
+Algorithm Designing    
+Probility               
+Basic E & I Engineering
+Electronic Circuits II  
+Signal Processing      
+Integrated Circuits     
+Communication Systems  
+Numerical methods       
+Electrical Machines II 
+Transmissions           
+Control Systems        
+Digital logic System    
+Analog Electronics     
+Numerical methods       
+Mechanics of solids II 
+Hydraulic Engineering   
+Geotechnology I        
+Construction practices  
+Concrete Technology    
+Statistic and Numerical 
+Mechanical operations  
+Chemical Processeses    
+Heat Transfer          
+Thermodynamics I        
+Environmental Science  

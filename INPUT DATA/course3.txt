@@ -1,0 +1,36 @@
+Discrete Mathematics   
+Digital Principles     
+Data Structures        
+UNIX & Shell Programs  
+Communications          
+Object Oriented Program
+Discrete Mathematics   
+Digital Electronics    
+C Programming          
+Digital Communication  
+Database Management    
+Computer Organization  
+Linear Algebra         
+Electronic Circuits I  
+Digital System Design  
+Signals and Systems    
+Data Structures        
+Electromagnetic Fields 
+Transform Techniques   
+Electrical Machines I  
+Electromagnetic Theory 
+Object Oriented Program
+Electronic Devices      
+Modern Power Plant     
+Transform Techniques   
+Structural Analysis    
+Steel Structures       
+Transportation         
+Wastewater Engineering 
+Ground Improvement     
+Transform Techniques   
+Fluid Mechanics        
+Kinematics Machinery   
+Thermal Engineering    
+Engineering Metallurgy 
+Dynamics of Machines   

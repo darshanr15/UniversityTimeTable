@@ -1,0 +1,6 @@
+Algebra and Calculus   
+Communicative English  
+Programming in Python  
+Engineering Chemistry  
+Engineering Physics    
+Engineering Graphics   
