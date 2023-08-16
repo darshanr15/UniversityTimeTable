@@ -49,10 +49,14 @@ ________________________________________________________________________________
 STEPS TO CREATE A TIME TABLE:
 
 1 - The C executable file of this project is found in the Folder.
-3 - The Input Data Files to be imported are found in the INPUT DATA Folder.
-4 - After Importing the input Data Files now the exe file can be run.
-5 - When the file is run, It asks for a start date as an Input from the user.
-6 - After a date is given, THE EXAM TIME TABLE along with THE HALL INVIGILATOR ALLOCATION is created in two files in the same directory. 
+
+2 - The Input Data Files to be imported are found in the INPUT DATA Folder.
+
+3 - After Importing the input Data Files now the exe file can be run.
+
+4 - When the file is run, It asks for a start date as an Input from the user.
+
+5 - After a date is given, THE EXAM TIME TABLE along with THE HALL INVIGILATOR ALLOCATION is created in two files in the same directory. 
 
 ____________________________________________________________________________________________________________________________________________
 
